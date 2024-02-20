@@ -1,6 +1,6 @@
 # Card Exchange Platform
-Progetto SWENG A.A. 2022/23<br>
-Gruppo: Alessio Arcara, Alessia Crimaldi, Davide Fermi, Matteo Sacco
+SWENG Project a.y. 2022/23<br>
+Group: Alessio Arcara, Alessia Crimaldi, Davide Fermi, Matteo Sacco
 
 ## Usage
 
